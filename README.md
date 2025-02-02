@@ -1,7 +1,10 @@
 # Testing
 
-To create a production apk:  eas build --profile production-apk --platform android --local
-To create a development build:  eas build --profile development --platform android --local
+To create a production apk: 
+`eas build --profile production-apk --platform android --local`
+
+To create a development build: 
+`eas build --profile development --platform android --local`
 
 # Welcome to your Expo app 👋
 
